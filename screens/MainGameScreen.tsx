@@ -49,7 +49,8 @@ export function MainGameScreen() {
   const [stage, setStage] = useState({ width: 0, height: 0 });
   const onStageLayout = (e: LayoutChangeEvent) => {
     const { width: w, height: h } = e.nativeEvent.layout;
-    setStage({ width: w, height: h });
+    // Guard against no-op updates; repeated layout writes can cause jank.
+    setStage((prev) => (prev.width === w && prev.height === h ? prev : { width: w, height: h }));
   };
 
   /**
@@ -286,5 +287,6 @@ const styles = StyleSheet.create({
   actionsRow: {
     flexDirection: 'row',
     gap: 10,
+    width: '100%',
   },
 });
