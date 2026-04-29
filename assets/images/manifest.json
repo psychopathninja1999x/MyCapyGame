@@ -1,0 +1,71 @@
+{
+  "eating": [
+    "eating/eating_01_idle.png",
+    "eating/eating_02_hold_food.png",
+    "eating/eating_03_bite_1.png",
+    "eating/eating_04_bite_2.png",
+    "eating/eating_05_chew.png",
+    "eating/eating_06_finish.png"
+  ],
+  "sad": [
+    "sad/sad_01_idle.png",
+    "sad/sad_02_head_down.png",
+    "sad/sad_03_sadder.png",
+    "sad/sad_04_tear.png",
+    "sad/sad_05_crying.png",
+    "sad/sad_06_breakdown.png"
+  ],
+  "happy": [
+    "happy/happy_01_idle_sparkle.png",
+    "happy/happy_02_smile.png",
+    "happy/happy_03_excited.png",
+    "happy/happy_04_jump.png",
+    "happy/happy_05_clap.png",
+    "happy/happy_06_blush.png"
+  ],
+  "hungry": [
+    "hungry/hungry_01_idle.png",
+    "hungry/hungry_02_thinking_food.png",
+    "hungry/hungry_03_want_food.png",
+    "hungry/hungry_04_stomach_growl.png",
+    "hungry/hungry_05_whine.png",
+    "hungry/hungry_06_beg.png"
+  ],
+  "swimming": [
+    "swimming/swimming_01_float.png",
+    "swimming/swimming_02_kick_1.png",
+    "swimming/swimming_03_kick_2.png",
+    "swimming/swimming_04_kick_3.png",
+    "swimming/swimming_05_kick_4.png"
+  ],
+  "idle_breathing": [
+    "idle_breathing/idle_01.png",
+    "idle_breathing/idle_02.png",
+    "idle_breathing/idle_03.png",
+    "idle_breathing/idle_04.png",
+    "idle_breathing/idle_05.png",
+    "idle_breathing/idle_06.png"
+  ],
+  "walking": [
+    "walking/walking_01.png",
+    "walking/walking_02.png",
+    "walking/walking_03.png",
+    "walking/walking_04.png",
+    "walking/walking_05.png"
+  ],
+  "running": [
+    "running/running_01.png",
+    "running/running_02.png",
+    "running/running_03.png",
+    "running/running_04.png",
+    "running/running_05.png"
+  ],
+  "turn_around": [
+    "turn_around/turn_01_front.png",
+    "turn_around/turn_02_three_quarter_left.png",
+    "turn_around/turn_03_side_left.png",
+    "turn_around/turn_04_back.png",
+    "turn_around/turn_05_three_quarter_right.png",
+    "turn_around/turn_06_side_right.png"
+  ]
+}

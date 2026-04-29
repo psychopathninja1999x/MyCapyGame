@@ -1,0 +1,1 @@
+export { MainGameScreen } from './MainGameScreen';

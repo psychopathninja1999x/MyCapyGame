@@ -1,0 +1,11 @@
+{
+  "files": [
+    "btn_feed_normal.png",
+    "btn_feed_pressed.png",
+    "btn_feed_disabled.png",
+    "btn_play_normal.png",
+    "btn_play_pressed.png",
+    "btn_play_disabled.png"
+  ],
+  "notes": "Crisp pixel-art buttons. Use resizeMode='contain'. Avoid stretching unevenly."
+}

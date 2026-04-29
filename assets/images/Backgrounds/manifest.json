@@ -1,0 +1,71 @@
+{
+  "eating": [
+    "eating/eating_01.png",
+    "eating/eating_02.png",
+    "eating/eating_03.png",
+    "eating/eating_04.png",
+    "eating/eating_05.png",
+    "eating/eating_06.png"
+  ],
+  "sad": [
+    "sad/sad_01.png",
+    "sad/sad_02.png",
+    "sad/sad_03.png",
+    "sad/sad_04.png",
+    "sad/sad_05.png",
+    "sad/sad_06.png"
+  ],
+  "happy": [
+    "happy/happy_01.png",
+    "happy/happy_02.png",
+    "happy/happy_03.png",
+    "happy/happy_04.png",
+    "happy/happy_05.png",
+    "happy/happy_06.png"
+  ],
+  "hungry": [
+    "hungry/hungry_01.png",
+    "hungry/hungry_02.png",
+    "hungry/hungry_03.png",
+    "hungry/hungry_04.png",
+    "hungry/hungry_05.png",
+    "hungry/hungry_06.png"
+  ],
+  "swimming": [
+    "swimming/swimming_01.png",
+    "swimming/swimming_02.png",
+    "swimming/swimming_03.png",
+    "swimming/swimming_04.png",
+    "swimming/swimming_05.png"
+  ],
+  "idle": [
+    "idle/idle_01.png",
+    "idle/idle_02.png",
+    "idle/idle_03.png",
+    "idle/idle_04.png",
+    "idle/idle_05.png",
+    "idle/idle_06.png"
+  ],
+  "walking": [
+    "walking/walking_01.png",
+    "walking/walking_02.png",
+    "walking/walking_03.png",
+    "walking/walking_04.png",
+    "walking/walking_05.png"
+  ],
+  "running": [
+    "running/running_01.png",
+    "running/running_02.png",
+    "running/running_03.png",
+    "running/running_04.png",
+    "running/running_05.png"
+  ],
+  "turn": [
+    "turn/turn_01.png",
+    "turn/turn_02.png",
+    "turn/turn_03.png",
+    "turn/turn_04.png",
+    "turn/turn_05.png",
+    "turn/turn_06.png"
+  ]
+}
